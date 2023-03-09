@@ -1,1 +1,1 @@
-the pathname of current directory
+ readme for task 3
